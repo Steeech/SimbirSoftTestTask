@@ -7,6 +7,16 @@
     <artifactId>testSimbirSoft</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+
+        <!-- The main class to start by executing "java -jar" -->
+        <start-class>testSimbirSoft</start-class>
+        <addClasspath>true</addClasspath>
+
+    </properties>
     <dependencies>
         <dependency>
             <groupId>org.jsoup</groupId>
