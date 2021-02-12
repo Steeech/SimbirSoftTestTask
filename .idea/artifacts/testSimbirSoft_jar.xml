@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="testSimbirSoft:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/testSimbirSoft_jar</output-path>
+    <output-path>$PROJECT_DIR$/</output-path>
     <root id="archive" name="testSimbirSoft.jar">
       <element id="module-output" name="testSimbirSoft" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar" path-in-jar="/" />
